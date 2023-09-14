@@ -39,7 +39,7 @@ npm run devStart
 Open the frontend folder in a new terminal window and run the following command:
 npm run dev
 
-Open a web browser and navigate to [http://localhost:3000](http://localhost:5173/)
+Open a web browser and navigate to http://localhost:5173/
 Contributing
 We encourage contributions to this project. If you have any suggestions or bug fixes, please feel free to create a pull request.
 License
