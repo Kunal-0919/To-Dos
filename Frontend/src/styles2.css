@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+.logo2 {
+    width:30%;
+    align-self: center;
+}
+.name-entry {
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.reminder-type {
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    padding: 30px;
+    width: 800px;
+    display: flex;
+
+}
+.Form {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    width: 800px;
+}
+.label2 {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: larger;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.container {
+    background-color:transparent;
+    border-radius: 10px;
+    border:3px solid rgb(0, 0, 0);
+    padding: 10px 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 25px 10px 0px;
+}
+.submit {
+    width: fit-content;
+    margin: 10px;
+    align-self: flex-end;
+}
+.user-input-reminder {
+    height:55px;
+    width:784px;
+    margin: 10px 22px 10px 10px;
+    
+    border:0.0001em solid rgb(35, 35, 39);
+    font-size: large;
+}
+.reminder-item {
+    display: flex;
+    margin-left: 20px;
+    flex-direction: column;
+    margin-bottom: 15px;
+    background-color: white;
+    border:2px solid black;
+    
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(11, 37, 70);
+    height:80px;
+}
+.reminder-item-active {
+    display: flex;
+    margin-left: 20px;
+    flex-direction: column;
+    margin-bottom: 15px;
+    background-color: white;
+    border:2px solid black;
+    border-left: 8px outset rgb(4, 129, 56) ;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(11, 37, 70);
+    height:80px;
+}
+.title-of-reminder  {
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.button-togglePage {
+    display: flex;
+    margin: 10px;
+
+}
+.btw-btn {
+    align-self: center;
+    font-family: 'Ubuntu', sans-serif;
+    color:#42a5f5
+}
+
+.paging {
+    margin-left:10px;
+    width:50px;
+    height:30px;
+    border-radius: 4px;
+    font-size: larger;
+    background-color: transparent;
+    border:none;
+    color: #42a5f5;
+}
+.paging:hover {
+    background-color:#e3f2fd ;
+    cursor: pointer;
+}
+
+.buttonssss {
+    margin: 10px;
+}
+
+
+
